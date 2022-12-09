@@ -1,0 +1,10 @@
+ctypes.wintypes
+tkinter.messagebox
+pyautogui
+time
+sys 
+keyboard
+tkinter
+openpyxl 
+pandas
+numpy
